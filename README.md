@@ -42,7 +42,8 @@
 
 ## 📍 Overview
 
-<code>❯ LRU Cache Simulation
+<code>
+LRU Cache Simulation
 This project simulates the Least Recently Used (LRU) page replacement algorithm, which is used to manage memory in computers. The program shows how pages are loaded into a cache, evicted when space runs out, and tracks page faults.
 
 Features
